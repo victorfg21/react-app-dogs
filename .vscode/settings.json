@@ -7,5 +7,6 @@
     "package.json": true,
     "package-lock.json": true,
     "public": true
-  }
+  },
+  "cSpell.language": "en,pt-BR"
 }
