@@ -1,45 +1,45 @@
 # React-App-Dogs
 
-Projeto desenvolvido no curso React Completo da Origamid.
+Project developed during the Complete React course by Origamid.
 
-O resultado final pode ser visualizado acessando o link: [react-app-dogs.vercel.app](https://react-app-dogs.vercel.app)
+The final result can be viewed at: [react-app-dogs.vercel.app](https://react-app-dogs.vercel.app)
 
-**Usuário:** dog  
-**Senha:** dog  
+**Username:** dog  
+**Password:** dog  
 
-Este projeto simula uma rede social para animais domésticos, permitindo que os usuários realizem postagens, comentários e acessem suas estatísticas.
+This project simulates a social network for pets, allowing users to make posts, comment, and access their statistics.
 
-## Tecnologias Utilizadas
+## Technologies Used
 
-- React
-- JavaScript
-- CSS
-- HTML
+- React  
+- JavaScript  
+- CSS  
+- HTML  
 
-## Funcionalidades
+## Features
 
-- Cadastro e autenticação de usuários
-- Publicação de fotos dos animais
-- Comentários em postagens
-- Visualização de estatísticas
+- User registration and authentication  
+- Posting pet photos  
+- Commenting on posts  
+- Viewing statistics  
 
-## Como Executar o Projeto
+## How to Run the Project
 
-1. Clone o repositório:
+1. Clone the repository:  
    ```sh
    git clone https://github.com/victorfg21/react-app-dogs.git
    ```
-2. Acesse o diretório do projeto:
+2. Navigate to the project directory:
    ```sh
    cd react-app-dogs
    ```
-3. Instale as dependências:
+3. Install dependencies:
    ```sh
    npm install
    ```
-4. Inicie o servidor de desenvolvimento:
+4. Start the development server:
    ```sh
    npm start
    ```
 
-O projeto estará disponível em `http://localhost:3000/`.
+The project will be available at `http://localhost:3000/`.
